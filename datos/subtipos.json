@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "descripcion":"Frutal"
+    },
+    {
+        "id":2,
+        "descripcion":"Cactus"
+    },
+    {
+        "id":3,
+        "descripcion":"Floral"
+    },
+    {
+        "id":4,
+        "descripcion":"Cerco"
+    }
+]

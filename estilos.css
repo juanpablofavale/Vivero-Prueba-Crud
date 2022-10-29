@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header img{
+    width: 40px;
+    margin: 5px;
+}
+
+main{
+    margin-top: 85px;
+}
+
+h1, h4{
+    text-align: center;
+    margin: 30px;
+}
+
+p{
+    width: 75%;
+    margin: 0 auto;
+}
+
+form{
+    border: 1px solid blue;
+    width: 350px;
+    height: 180px;
+    padding: 25px;
+    border-radius: 5px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 10px black;
+}
+
+.tabla{
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.editar{
+    background-color: #123456;
+    color: white;
+}
+
+.borrar{
+    background-color: #982121;
+    color: white;
+}
+
+#subDesc{
+    margin-left: 10px;
+}

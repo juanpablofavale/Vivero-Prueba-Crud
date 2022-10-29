@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "nombre":"Limonero",
+        "precio":2500,
+        "stock":10,
+        "imagen":"https://i.pinimg.com/564x/49/dd/8c/49dd8cc572c178541e745097c54ef8a3.jpg",
+        "subtipo":1
+    },
+    {
+        "id":2,
+        "nombre":"Cactusito",
+        "precio":1200,
+        "stock":30,
+        "imagen":"https://thumbs.dreamstime.com/b/peque%C3%B1o-cactus-en-una-maceta-blanca-85137557.jpg",
+        "subtipo":2
+    }
+]
